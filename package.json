@@ -1,0 +1,12 @@
+{
+  "name": "telegram-media-downloader-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to download media from TikTok, Instagram, YouTube and Spotify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
